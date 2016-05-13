@@ -1,0 +1,17 @@
+{
+  "name": "divi",
+  "description": "[InternetShortcut] URL=http://www.elegantthemes.com/gallery/divi/readme.html",
+  "main": "index.php",
+  "authors": [
+    "Michael Thomsen - 21ilab"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

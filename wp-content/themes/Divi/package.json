@@ -1,0 +1,30 @@
+{
+  "name": "divi",
+  "version": "1.0.0",
+  "description": "[InternetShortcut] URL=http://www.elegantthemes.com/gallery/divi/readme.html",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/21ilabthomsen/divi-test.git"
+  },
+  "author": "Michael Thomsen - 21ilab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/21ilabthomsen/divi-test/issues"
+  },
+  "homepage": "https://github.com/21ilabthomsen/divi-test#readme",
+  "devDependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt-modernizr-builder": "^0.1.7",
+    "grunt-postcss": "^0.5.5",
+    "grunt-sass": "^1.1.0",
+    "load-grunt-tasks": "^3.2.0",
+    "node-sass": "^3.4.1"
+  }
+}
